@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(3, 121, 13, 0.829);
+    background-color: rgb(4, 183, 238);
+    border-radius:3px;
+    box-shadow: 5px 10px 15px;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: left;
+    position: fixed;
+    text-decoration: none;
+    text-align: center;
+    background-color: #57abec;
+    transform: translateY(-200);
+    transition: all 2s ease-in;
+    box-shadow: 5px 10px 15px;
+}
